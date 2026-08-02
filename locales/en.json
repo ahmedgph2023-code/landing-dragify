@@ -1,0 +1,972 @@
+{
+  "header": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "features": "Features",
+    "documentation": "Documentation",
+    "blogs": "Blogs",
+    "about": "About",
+    "dashboard": "Try for free"
+  },
+  "hero": {
+    "title": "Your Next <highlight>Team Member?</highlight> An <highlight>AI Agent</highlight> That <highlight>{displayedText}</highlight>",
+    "subtitle": "Turn your daily tasks into automated, reliable workflows. Create custom AI agents, run them in one click, and let them handle the heavy lifting — no coding, no technical setup.",
+    "getStarted": "Try for free",
+    "requestDemo": "See How It Works",
+    "writerTexts": ["Acts", "Thinks", "Leaps"]
+  },
+  "features": {
+    "title": "Advanced Capabilities. <highlight>Simple Experience</highlight>",
+    "description": "Scale operations, automate tasks, and unlock real-time decision-making with intelligent AI Agents.",
+    "items": [
+      {
+        "title": "Custom Built AI Agents",
+        "description": "Turn your ideas into AI agents that think, act, and deliver results automatically."
+      },
+      {
+        "title": "Multi-Agent Orchestration",
+        "description": "Let your agents collaborate behind the scenes to streamline complex workflows."
+      },
+      {
+        "title": "Deploy Fast With One-Click",
+        "description": "Go from setup to execution in minutes — no delays, no friction."
+      },
+      {
+        "title": "Scalable API Connections",
+        "description": "Connect your agents to any system or tool you rely on and scale effortlessly."
+      }
+    ]
+  },
+  "partners": {
+    "title": "Backed by Visionaries"
+  },
+  "statistics": {
+    "title": "Trusted by Teams <span class=\"gradient-text\">Worldwide</span>",
+    "subtitle": "Entities across different industries rely on Dragify to automate work, improve performance, and reduce operational load. Here are some of their stories.",
+    "learnMore": "Learn More",
+    "items": [
+      {
+        "id": "deployment-efficiency",
+        "percentage": "57%",
+        "description": "Increase in deployment efficiency",
+        "details": "57% of users report significant improvements in deployment time and resource utilization."
+      },
+      {
+        "id": "engineering-time",
+        "percentage": "68%",
+        "description": "Reduction in engineering time",
+        "details": "68% reduction in time spent on routine deployment tasks, allowing engineers to focus on innovation."
+      },
+      {
+        "id": "time-to-production",
+        "percentage": "93%",
+        "description": "Faster time to production",
+        "details": "93% of users deploy models to production in minutes rather than days or weeks."
+      },
+      {
+        "id": "hours-saved",
+        "percentage": "300+",
+        "description": "Hours saved per quarter",
+        "details": "Teams save an average of 300+ engineering hours each quarter by automating their deployment process."
+      },
+      {
+        "id": "user-satisfaction",
+        "percentage": "80%",
+        "description": "User satisfaction rating",
+        "details": "80% of users rate their experience as excellent, appreciating the intuitive interface and reliable performance."
+      },
+      {
+        "id": "deployment-errors",
+        "percentage": "71%",
+        "description": "Reduction in deployment errors",
+        "details": "71% fewer deployment errors reported, leading to more stable systems and fewer rollbacks."
+      }
+    ]
+  },
+  "agents": {
+    "title": "AI That Fits Every Team and Every Workflow",
+    "description": "Explore how teams across different functions use AI agents to streamline tasks and improve results.",
+    "items": [
+      {
+        "title": "Marketing Automation",
+        "description": "campaigns, content, engagement — automated.",
+        "tags": ["Content Creation", "Campaign Analysis", "SEO Optimization"]
+      },
+      {
+        "title": "Customer Support",
+        "description": "ticket sorting, auto-responses, 24/7 availability.",
+        "tags": ["Ticket Resolution", "Knowledge Base", "Smart Escalation"]
+      },
+      {
+        "title": "Sales Automation",
+        "description": "follow-ups, lead nurturing, scheduling.",
+        "tags": ["Lead Qualification", "Email Outreach", "Meeting Scheduling"]
+      },
+      {
+        "title": "Operations Management",
+        "description": "task routing, data syncing, real-time alerts.",
+        "tags": ["Supply Chain", "Inventory", "Procurement"]
+      },
+      {
+        "title": "HR Operations",
+        "description": "request handling, schedule management, admin automation.",
+        "tags": ["Resume Screening", "Onboarding", "Employee Support"]
+      },
+      {
+        "title": "Financial Operations",
+        "description": "Automate invoice processing, expense management, and financial reporting with precision.",
+        "tags": [
+          "Invoice Processing",
+          "Expense Management",
+          "Financial Reports"
+        ]
+      }
+    ]
+  },
+  "integrations": {
+    "title": "Works Seamlessly With Your Existing Stack",
+    "description": "Connect Dragify to your CRM, databases, communication tools, internal systems, and more in just a few clicks.",
+    "seeAll": "See all integrations",
+    "cardTitle": "Connect Your Tools",
+    "connected": "Connected",
+    "connect": "Connect",
+    "items": [
+      {
+        "name": "Shopify",
+        "connected": true
+      },
+      {
+        "name": "Slack",
+        "connected": true
+      },
+      {
+        "name": "Google Drive",
+        "connected": false
+      },
+      {
+        "name": "Analytics",
+        "connected": false
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Get answers to common questions about Dragify AI and how it can transform your business operations.",
+    "items": [
+      {
+        "question": "What is Dragify, and how does it work?",
+        "answer": " Dragify is a no-code platform that empowers businesses to build and deploy intelligent AI agents. These agents can automate tasks, interact with users, process data, and integrate with your existing tools—all without writing a single line of code."
+      },
+      {
+        "question": "Do I need any technical skills to use Dragify?",
+        "answer": "No. Dragify is built for non-technical users. Its drag-and-drop interface and prebuilt function blocks let anyone—from operations managers to customer support leads—build workflows and intelligent agents with ease."
+      },
+      {
+        "question": "What kind of tasks can Dragify's AI agents handle?",
+        "answer": " Dragify agents can manage customer support, automate data entry, process documents (OCR), interact with APIs, summarize emails, generate reports, and even make decisions based on business logic or past interactions."
+      },
+      {
+        "question": "Can Dragify integrate with our existing systems (CRM, Slack, Gmail, etc.)?",
+        "answer": " Yes. Dragify includes ready-made integrations for popular tools like Gmail, Google Drive, Slack, WhatsApp, CRMs, databases, and more. You can also connect to custom APIs to extend functionality across your tech stack."
+      },
+      {
+        "question": "How is Dragify different from traditional RPA platforms?",
+        "answer": "Dragify goes beyond rule-based automation. It uses Agentic Process Automation (APA)—where AI agents think, plan, and act independently within workflows. It's faster to deploy, more scalable, and offers true decision-making intelligence."
+      },
+      {
+        "question": "Is Dragify secure for enterprise use?",
+        "answer": "Absolutely. Dragify offers secure data handling, role-based access control, and options for on-premise deployment. Sensitive workflows can be fully self-hosted to meet strict compliance and security requirements."
+      }
+    ]
+  },
+  "pricing": {
+    "header": {
+      "title": "Pricing Built for Smarter Automation - Real Value Starts Today",
+      "description": "Choose the plan that matches your team’s needs and transform repetitive tasks into powerful automation without a single line of code",
+      "monthly": "Monthly",
+      "annually": "Annually",
+      "save": "Save 20%"
+    },
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "description": "Perfect for individuals and small teams",
+        "features": [
+          "Basic analytics",
+          "Standard support",
+          "1,500 Credits/month"
+        ]
+      },
+      "growth": {
+        "name": "Growth",
+        "description": "Built for scaling teams and early automation adopters",
+        "features": [
+          "Intermediate Analytics",
+          "Faster Support Responset",
+          "3,000 Credits/month"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "description": "Ideal for growing businesses and automation teams",
+        "features": [
+          "Advanced Analytics",
+          "Priority Support",
+          "5,000 Credits/month"
+        ]
+      },
+      "mostPopular": "Most Popular",
+      "getStarted": "Get Started",
+      "perMonth": "/month"
+    },
+    "reviewTitle": "Our User Reviews",
+    "reviewDescription": "See what our customers are saying about their experience with Dragify AI",
+    "trustTitle": "Major Organizations Trust Us",
+    "trustDescription": "Join thousands of leading organizations that rely on Dragify AI",
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Have questions about our pricing or features? Find answers to common questions below.",
+      "items": [
+        {
+          "question": "How does the pricing work?",
+          "answer": "Our pricing is based on a monthly or annual subscription model. You can choose between our Basic, Professional, or Enterprise plans depending on your needs. Annual subscriptions offer a 20% discount compared to monthly billing. Each plan includes a different number of AI model deployments, API calls, and storage capacity."
+        },
+        {
+          "question": "Can I upgrade or downgrade my plan?",
+          "answer": "Yes, you can upgrade your plan at any time and the change will take effect immediately. If you wish to downgrade, the change will be applied at the end of your current billing cycle. Your account will be prorated accordingly for upgrades."
+        },
+        {
+          "question": "What happens if I exceed my plan limits?",
+          "answer": "If you exceed your plan's limits for API calls or storage, you'll be notified and can choose to upgrade to a higher plan or pay for additional usage at our standard overage rates. We never cut off service without warning you first."
+        },
+        {
+          "question": "Do you offer a free trial?",
+          "answer": "Yes, we offer a 14-day free trial for all our plans. You can try out all the features without any commitment. No credit card is required for the trial period. After the trial ends, you can choose to subscribe to one of our plans."
+        },
+        {
+          "question": "What payment methods do you accept?",
+          "answer": "We accept all major credit cards including Visa, Mastercard, and American Express. For Enterprise plans, we also support invoicing and bank transfers. All payments are processed securely through our payment partners."
+        },
+        {
+          "question": "Do you offer refunds?",
+          "answer": "We offer a 30-day money-back guarantee for annual subscriptions. For monthly subscriptions, you can cancel anytime but we don't provide prorated refunds for partial months. If you have any issues with our service, please contact our support team."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "From engineers to operators—Dragify fits all builders",
+    "quickLinks": {
+      "title": "Quick Links",
+      "about": "About",
+      "pricing": "Pricing",
+      "features": "Features",
+      "blog": "Blog"
+    },
+    "company": {
+      "title": "Company",
+      "careers": "Careers",
+      "team": "Team",
+      "press": "Press",
+      "contact": "Contact"
+    },
+    "resources": {
+      "title": "Resources",
+      "documentation": "Documentation",
+      "api": "API",
+      "tutorials": "Tutorials",
+      "support": "Support"
+    },
+    "copyright": "All rights reserved.",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "refundPolicy": "Refund Policy"
+  },
+  "legal": {
+    "lastUpdatedLabel": "Last updated:"
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Read the latest news from us",
+    "metaDescription": "Read the latest news, updates, tutorials, and insights from the Simplify AI team.",
+    "loading": "Loading blog posts...",
+    "error": "Failed to load blog posts. Please try again later.",
+    "breadcrumbs": {
+      "home": "Home",
+      "resources": "Resources",
+      "blog": "Blog"
+    },
+    "backToAllPosts": "Back to all posts",
+    "readMore": "Read More",
+    "loadingPost": "Loading post...",
+    "postNotFound": "Post not found",
+    "postError": "Failed to load the blog post. Please try again later."
+  },
+  "workflow": {
+    "trigger": "Trigger",
+    "aiAgent": "Ai Agent",
+    "agents": {
+      "ceo": {
+        "title": "CEO AI Agent",
+        "description": "Leads, Delegates, Strategizes"
+      },
+      "operations": {
+        "title": "Operations AI Agent",
+        "description": "Optimizes, Coordinates, Executes"
+      },
+      "customer": {
+        "title": "Customer Agent",
+        "description": "Listens, Responds, Supports"
+      },
+      "product": {
+        "title": "Product Agent",
+        "description": "Builds, Tests, Improves"
+      },
+      "marketing": {
+        "title": "Marketing Agent",
+        "description": "Attracts, Engages, Converts"
+      }
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy Policy - Dragify AI",
+      "description": "Learn how Dragify AI collects, uses, shares, and protects personal information, including billing and payment data."
+    },
+    "header": {
+      "title": "Privacy Policy",
+      "description": "This Privacy Policy explains how we collect, use, disclose, and protect personal information when you use Dragify AI.",
+      "lastUpdatedDate": "February 15, 2026"
+    },
+    "sections": {
+      "intro": {
+        "title": "1. Introduction",
+        "p1": "Dragify AI provides a no-code platform for building and operating AI agents and workflow automations for businesses. This Privacy Policy describes how we collect and process personal information through our website, platform, and related services.",
+        "p2": "By using our services, you acknowledge this Privacy Policy. If you do not agree with it, please do not use our services."
+      },
+      "info": {
+        "title": "2. Information We Collect",
+        "personal": {
+          "title": "Personal Information",
+          "p": "We collect personal information you provide directly when creating an account, requesting a demo, purchasing a subscription, or contacting support. Depending on your use, this may include:",
+          "list": [
+            "Name and work contact details (email, phone)",
+            "Company details (company name, role, business information)",
+            "Account credentials and profile details",
+            "Billing details (billing address, invoices, tax-related information)",
+            "Support communications and submitted requests"
+          ]
+        },
+        "usage": {
+          "title": "Usage Data",
+          "p": "We automatically collect technical and usage data to operate, secure, and improve our services. This may include:",
+          "list": [
+            "IP address",
+            "Device, browser, and operating system details",
+            "Log data, timestamps, and error/diagnostic events",
+            "Pages and features used, session activity, and referring URLs",
+            "Cookie and similar tracking identifiers"
+          ]
+        },
+        "userContent": {
+          "title": "User Content",
+          "p": "When you use Dragify AI, we process content you choose to upload or connect, such as workflow inputs, prompts, files, datasets, and integration data, solely to provide requested services and platform functionality."
+        }
+      },
+      "use": {
+        "title": "3. How We Use Your Information",
+        "p": "We use collected information for legitimate business purposes, including:",
+        "list": [
+          "Providing and maintaining the Dragify AI platform and related services",
+          "Creating and managing user accounts and subscriptions",
+          "Processing billing transactions and sending invoices/receipts",
+          "Securing our services, preventing fraud, abuse, and unauthorized access",
+          "Providing customer support and responding to inquiries",
+          "Improving product performance, features, and reliability",
+          "Sending important service, legal, and policy communications",
+          "Complying with legal obligations and enforcing our terms"
+        ]
+      },
+      "share": {
+        "title": "4. How We Share Your Information",
+        "p": "We may share your information in the following situations:",
+        "list": {
+          "serviceProviders": "With Service Providers: We share information with trusted vendors who help us deliver the service (hosting, analytics, communications, support tools, and payment processing). For card payments, transactions are processed by Paymob and/or approved payment partners. We do not store full card numbers or card CVV data on our servers.",
+          "businessTransfers": "Business Transfers: Information may be transferred as part of a merger, acquisition, financing, reorganization, or sale of assets, subject to applicable confidentiality protections.",
+          "consent": "With Your Consent: We may share information where you explicitly direct or authorize us to do so.",
+          "legal": "Legal Requirements: We may disclose information when required by law, legal process, or to protect rights, safety, and service integrity."
+        }
+      },
+      "security": {
+        "title": "5. Security of Your Information",
+        "p": "We use administrative, technical, and organizational safeguards to protect personal information, including access controls, encryption in transit where appropriate, monitoring, and least-privilege practices. No method of transmission or storage is fully secure, but we continuously work to protect your data."
+      },
+      "rights": {
+        "title": "6. Your Data Protection Rights",
+        "p": "Depending on your location and applicable law, you may have rights regarding your personal information, including:",
+        "list": [
+          "Access to the personal information we hold about you",
+          "Correction of inaccurate or incomplete personal information",
+          "Deletion of personal information, subject to legal or contractual obligations",
+          "Restriction of or objection to certain processing activities",
+          "Data portability where technically feasible and legally required",
+          "Withdrawal of consent where processing is based on consent"
+        ],
+        "contact": "To exercise these rights, contact us at contact@dragify.ai. We may request verification before processing your request."
+      },
+      "cookies": {
+        "title": "7. Cookies and Tracking Technologies",
+        "p": "We use cookies and similar technologies for authentication, security, session continuity, analytics, and product improvement. You can control cookies through your browser settings, but some features may not function properly if cookies are disabled."
+      },
+      "transfers": {
+        "title": "8. International Data Transfers",
+        "p": "Your information may be processed in countries other than your country of residence. Where required, we use appropriate safeguards and contractual protections for cross-border transfers in accordance with applicable law."
+      },
+      "children": {
+        "title": "9. Children's Privacy",
+        "p": "Our services are designed for businesses and are not directed to children under 16. We do not knowingly collect personal information from children under 16. If you believe a child has provided us with personal information, contact us so we can take appropriate action."
+      },
+      "changes": {
+        "title": "10. Changes to this Privacy Policy",
+        "p": "We may update this Privacy Policy from time to time to reflect legal, operational, or product changes. Material updates will be posted on this page with an updated effective date."
+      },
+      "contact": {
+        "title": "11. Contact Us",
+        "p": "If you have privacy, data protection, or billing-related questions, contact us at contact@dragify.ai."
+      }
+    }
+  },
+  "customAgents": {
+    "meta": {
+      "title": "Custom Built AI Agents - Dragify AI",
+      "description": "Turn Ideas Into Agents That Do the Work. Create tailored AI agents that handle decisions, execute tasks, and never need a coffee break."
+    },
+
+    "hero": {
+      "title": "Custom Built AI Agents",
+      "subtitle": "Turn Ideas Into Agents That Do the Work"
+    },
+
+    "intro": {
+      "description": "Create tailored AI agents that handle decisions, execute tasks, and never need a coffee break. Our custom-built agents are designed to understand your unique business needs and operate autonomously to deliver consistent, high-quality results around the clock."
+    },
+
+    "imageCards": [
+      {
+        "title": "Autonomous AI Agents",
+        "description": "Self-operating agents that work independently to complete complex tasks without constant supervision."
+      },
+      {
+        "title": "Intelligent Decision Making",
+        "description": "Advanced neural networks that analyze data and make smart decisions in real-time."
+      },
+      {
+        "title": "Automated Task Execution",
+        "description": "Seamlessly automate repetitive tasks and free up your team for higher-value work."
+      }
+    ],
+
+    "features": {
+      "title": "Key Capabilities",
+      "subtitle": "Our AI agents come equipped with powerful features designed to transform how you work.",
+      "items": [
+        {
+          "title": "Context-Aware Processing",
+          "description": "Agents understand the context of each task, adapting their approach based on historical data and current conditions."
+        },
+        {
+          "title": "24/7 Operation",
+          "description": "Your agents work tirelessly around the clock, ensuring no task goes unattended regardless of time zones."
+        },
+        {
+          "title": "Continuous Learning",
+          "description": "Agents learn from every interaction, continuously improving their performance and accuracy over time."
+        }
+      ]
+    },
+
+    "benefits": {
+      "title": "Why Choose Custom AI Agents",
+      "subtitle": "Discover the advantages that set our AI agents apart from traditional automation solutions.",
+      "items": [
+        {
+          "title": "Reduced Operational Costs",
+          "description": "Automate repetitive tasks and reduce the need for manual intervention, saving time and resources across your organization."
+        },
+        {
+          "title": "Improved Accuracy",
+          "description": "Eliminate human error with AI agents that maintain consistent precision in every task they perform."
+        },
+        {
+          "title": "Faster Response Times",
+          "description": "React to changes and requests in milliseconds, ensuring your business stays ahead of the competition."
+        },
+        {
+          "title": "Scalable Workforce",
+          "description": "Scale your operations instantly without the overhead of hiring, training, or managing additional staff."
+        }
+      ]
+    },
+
+    "steps": {
+      "title": "How It Works",
+      "subtitle": "Getting started with custom AI agents is simple and straightforward.",
+      "items": [
+        {
+          "title": "Define Your Goals",
+          "description": "Tell us what tasks you want to automate and what outcomes you expect."
+        },
+        {
+          "title": "Configure Your Agent",
+          "description": "Customize your agent's behavior, decision rules, and integration points."
+        },
+        {
+          "title": "Train & Test",
+          "description": "Your agent learns from your data and is tested in a safe environment."
+        },
+        {
+          "title": "Deploy & Monitor",
+          "description": "Launch your agent and track its performance with real-time analytics."
+        }
+      ]
+    }
+  },
+  "deployOneClick": {
+    "meta": {
+      "title": "Deploy Fast With One-Click - Dragify AI",
+      "description": "From Workflow to Workflowing — Instantly. Launch your AI agents in minutes, not weeks — no setup delays, just results."
+    },
+
+    "hero": {
+      "title": "Deploy Fast With One-Click",
+      "subtitle": "From Workflow to Workflowing — Instantly"
+    },
+
+    "intro": {
+      "description": "Launch your AI agents in minutes, not weeks — no setup delays, just results. Our streamlined deployment process eliminates the complexity of traditional AI implementation, allowing you to go from concept to production with a single click."
+    },
+
+    "imageCards": [
+      {
+        "title": "One-Click Launch",
+        "description": "Deploy your AI agents instantly with our simplified one-click deployment system."
+      },
+      {
+        "title": "Instant Dashboard",
+        "description": "Monitor and manage your deployed agents from a real-time control center."
+      },
+      {
+        "title": "Rapid Results",
+        "description": "See immediate impact as your AI agents start working the moment they're deployed."
+      }
+    ],
+
+    "speed": {
+      "title": "Speed That Matters",
+      "subtitle": "Our deployment platform is engineered for speed at every step."
+    },
+
+    "stats": [
+      {
+        "number": "5min",
+        "label": "Average Deployment Time"
+      },
+      {
+        "number": "0",
+        "label": "Configuration Files Needed"
+      },
+      {
+        "number": "99.9%",
+        "label": "Uptime Guarantee"
+      },
+      {
+        "number": "1-Click",
+        "label": "Rollback Capability"
+      }
+    ],
+
+    "features": {
+      "title": "Deployment Features",
+      "subtitle": "Everything you need to deploy, manage, and scale your AI agents with confidence.",
+      "items": [
+        {
+          "title": "Zero-Configuration Deployment",
+          "description": "Skip the complex setup. Our intelligent system auto-configures everything based on your agent's requirements."
+        },
+        {
+          "title": "Auto-Scaling Infrastructure",
+          "description": "Resources automatically scale up or down based on demand, ensuring optimal performance without manual intervention."
+        },
+        {
+          "title": "Built-in Security",
+          "description": "Enterprise-grade security comes standard with every deployment, including encryption, access controls, and audit logs."
+        },
+        {
+          "title": "Instant Rollback",
+          "description": "Made a mistake? Roll back to any previous version with a single click. Your agents are always recoverable."
+        }
+      ]
+    },
+
+    "timeline": {
+      "title": "Deploy in 3 Simple Steps",
+      "subtitle": "From development to production in minutes, not weeks.",
+      "items": [
+        {
+          "title": "Build Your Agent",
+          "description": "Use our intuitive interface to configure your AI agent's capabilities, behaviors, and integrations."
+        },
+        {
+          "title": "Click Deploy",
+          "description": "Hit the deploy button and watch as our system automatically provisions and configures everything."
+        },
+        {
+          "title": "Go Live",
+          "description": "Your agent is now live and ready to work. Monitor performance and iterate as needed."
+        }
+      ]
+    },
+
+    "comparison": {
+      "title": "Traditional vs. Dragify AI",
+      "subtitle": "See how our deployment process compares to traditional methods.",
+      "table": {
+        "headers": ["Aspect", "Traditional", "Dragify AI"],
+        "rows": [
+          ["Setup Time", "2-4 weeks", "5 minutes"],
+          ["Technical Expertise", "DevOps team required", "No coding needed"],
+          ["Infrastructure", "Manual provisioning", "Fully managed"],
+          ["Scaling", "Manual configuration", "Automatic"],
+          ["Maintenance", "Ongoing overhead", "Zero maintenance"]
+        ]
+      }
+    }
+  },
+  "multiAgentOrchestration": {
+    "meta": {
+      "title": "Multi-Agent Orchestration - Dragify AI",
+      "description": "Let Your AI Agents Team Up. Orchestrate smarter workflows by connecting agents that collaborate, coordinate, and conquer complexity."
+    },
+
+    "hero": {
+      "title": "Multi-Agent Orchestration",
+      "subtitle": "Let Your AI Agents Team Up"
+    },
+
+    "intro": {
+      "description": "Orchestrate smarter workflows by connecting agents that collaborate, coordinate, and conquer complexity. When one agent isn't enough, our multi-agent orchestration platform enables seamless teamwork between specialized AI agents, each contributing their unique capabilities to solve complex challenges."
+    },
+
+    "imageCards": [
+      {
+        "title": "Collaborative AI Agents",
+        "description": "Multiple specialized agents working together to tackle complex multi-step processes."
+      },
+      {
+        "title": "Smart Workflow Networks",
+        "description": "Intelligent routing and coordination that ensures the right agent handles each task."
+      },
+      {
+        "title": "Coordinated Complexity",
+        "description": "Harmonious agent interactions that break down complex problems into manageable pieces."
+      }
+    ],
+
+    "capabilities": {
+      "title": "Orchestration Capabilities",
+      "subtitle": "Powerful features that enable seamless collaboration between AI agents.",
+      "features": [
+        {
+          "title": "Dynamic Task Routing",
+          "description": "Automatically route tasks to the most suitable agent based on capabilities, availability, and performance history."
+        },
+        {
+          "title": "Workflow Builder",
+          "description": "Design complex multi-agent workflows with our intuitive visual builder. No coding required."
+        },
+        {
+          "title": "Real-Time Monitoring",
+          "description": "Track every agent interaction with comprehensive dashboards showing performance metrics and bottlenecks."
+        }
+      ]
+    },
+
+    "useCases": {
+      "title": "Use Cases",
+      "subtitle": "See how multi-agent orchestration transforms real-world business processes.",
+      "items": [
+        {
+          "title": "Customer Support Pipeline",
+          "description": "Route incoming queries through specialized agents: a triage agent categorizes issues, a knowledge agent retrieves solutions, and a resolution agent handles the customer interaction — all working seamlessly together."
+        },
+        {
+          "title": "Data Processing Workflows",
+          "description": "Combine data extraction agents with validation agents and analysis agents to create end-to-end data pipelines that transform raw data into actionable insights."
+        },
+        {
+          "title": "Content Creation Pipeline",
+          "description": "Research agents gather information, writing agents create content, editing agents refine the output, and publishing agents distribute across channels — a complete content factory."
+        },
+        {
+          "title": "Quality Assurance Automation",
+          "description": "Testing agents identify issues, diagnostic agents analyze root causes, and reporting agents document findings — ensuring comprehensive quality coverage for any process."
+        }
+      ]
+    },
+
+    "architecture": {
+      "title": "How Orchestration Works",
+      "subtitle": "A three-layer architecture that ensures reliable and efficient agent coordination.",
+      "layers": [
+        {
+          "title": "Coordination Layer",
+          "description": "The brain of the system that manages task distribution, tracks agent states, and ensures smooth handoffs between agents."
+        },
+        {
+          "title": "Communication Layer",
+          "description": "Enables real-time message passing between agents with built-in retry logic and guaranteed delivery."
+        },
+        {
+          "title": "Execution Layer",
+          "description": "Where agents perform their specialized tasks, with built-in error handling and automatic recovery mechanisms."
+        }
+      ]
+    }
+  },
+  "scalableAPIConnections": {
+    "meta": {
+      "title": "Scalable API Connections - Dragify AI",
+      "description": "Plug Into Anything. Scale Everywhere. Easily connect your agents to any system, tool, or service — from CRMs to databases and beyond."
+    },
+    "hero": {
+      "title": "Scalable API Connections",
+      "subtitle": "Plug Into Anything. Scale Everywhere."
+    },
+    "intro": {
+      "description": "Easily connect your agents to any system, tool, or service — from CRMs to databases and beyond. Our universal API connector framework ensures your AI agents can seamlessly integrate with your entire tech stack, enabling them to access data and trigger actions across all your business systems."
+    },
+    "imageCards": [
+      {
+        "title": "Unlimited Connections",
+        "description": "Connect to hundreds of services and APIs without limits or restrictions."
+      },
+      {
+        "title": "Universal Integration",
+        "description": "One framework to connect them all — REST, GraphQL, WebSocket, and more."
+      },
+      {
+        "title": "Infinite Scalability",
+        "description": "Handle millions of API calls per day with automatic load balancing."
+      }
+    ],
+    "popularIntegrations": {
+      "title": "Popular Integrations",
+      "subtitle": "Pre-built connectors for the tools you already use."
+    },
+    "featuresSection": {
+      "title": "Connection Capabilities",
+      "subtitle": "Advanced features that make API integration effortless.",
+      "features": [
+        {
+          "title": "Secure Authentication",
+          "description": "Support for OAuth 2.0, API keys, JWT tokens, and custom authentication schemes with encrypted credential storage."
+        },
+        {
+          "title": "Auto-Retry Logic",
+          "description": "Intelligent retry mechanisms with exponential backoff ensure reliable connections even during service disruptions."
+        },
+        {
+          "title": "Rate Limit Management",
+          "description": "Automatic rate limiting and request queuing to respect API quotas and prevent service disruptions."
+        }
+      ]
+    },
+    "capabilitiesSection": {
+      "title": "What You Can Connect",
+      "subtitle": "Our API framework supports connections across every category of business software.",
+      "capabilities": [
+        {
+          "title": "CRM & Sales Platforms",
+          "description": "Salesforce, HubSpot, Pipedrive, Zoho CRM — sync customer data and automate sales workflows."
+        },
+        {
+          "title": "Databases & Data Warehouses",
+          "description": "PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery — query and update data in real-time."
+        },
+        {
+          "title": "Communication Tools",
+          "description": "Slack, Microsoft Teams, Discord, Twilio — send messages, notifications, and alerts."
+        },
+        {
+          "title": "Project Management",
+          "description": "Jira, Asana, Trello, Monday.com — create tasks, update statuses, and track progress."
+        },
+        {
+          "title": "Payment & Finance",
+          "description": "Stripe, PayPal, QuickBooks, Xero — process payments and manage financial data."
+        },
+        {
+          "title": "Custom APIs",
+          "description": "Any REST or GraphQL API — connect to your proprietary systems and custom-built applications."
+        }
+      ]
+    },
+    "scalingSection": {
+      "title": "Built for Scale",
+      "subtitle": "Our infrastructure handles enterprise-level demands without breaking a sweat.",
+      "metrics": [
+        {
+          "value": "10M+",
+          "label": "API Calls Per Day"
+        },
+        {
+          "value": "50ms",
+          "label": "Average Response Time"
+        },
+        {
+          "value": "500+",
+          "label": "Pre-Built Connectors"
+        },
+        {
+          "value": "99.99%",
+          "label": "Connection Uptime"
+        }
+      ]
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact Us - Dragify AI",
+      "description": "Contact Dragify AI sales and support for demos, pricing, integrations, and enterprise automation solutions."
+    },
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible."
+    },
+    "form": {
+      "title": "Send us a Message",
+      "successMessage": "Thank you for your message! We'll get back to you soon.",
+      "fields": {
+        "name": {
+          "label": "Name",
+          "placeholder": "Your full name"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "your@email.com"
+        },
+        "message": {
+          "label": "Message",
+          "placeholder": "How can we help you?"
+        }
+      },
+      "submit": {
+        "sending": "Sending...",
+        "send": "Send Message"
+      }
+    },
+    "info": {
+      "title": "Get in Touch",
+      "description": "For sales inquiries, demos, pricing details, and integration support, contact our team using the details below.",
+      "email": "Email",
+      "address": "Address",
+      "phone": "Phone"
+    }
+  },
+  "refund": {
+    "meta": {
+      "title": "Refund Policy - Dragify AI",
+      "description": "Refund Policy for Dragify AI subscriptions and payments processed through Paymob and approved payment partners."
+    },
+    "header": {
+      "title": "Refund Policy",
+      "description": "This Refund Policy explains when refunds are available and how refund requests are processed.",
+      "lastUpdatedDate": "February 15, 2026"
+    },
+    "sections": {
+      "intro": {
+        "title": "1. Overview",
+        "p1": "Dragify AI provides digital software services, including AI agent automation and workflow subscriptions. This policy applies to payments made for our plans and services.",
+        "p2": "We aim to keep billing clear and fair. If you believe you were charged incorrectly, contact us and we will review your case promptly."
+      },
+      "eligibility": {
+        "title": "2. When a Refund May Be Approved",
+        "p": "Refund requests may be approved in cases such as:",
+        "list": [
+          "Duplicate or accidental charges for the same order",
+          "A technical billing error caused by our system",
+          "A first-time annual subscription cancellation requested within 14 days of payment, where service usage is minimal"
+        ]
+      },
+      "nonRefundable": {
+        "title": "3. Non-Refundable Cases",
+        "p": "Refunds are generally not provided for:",
+        "list": [
+          "Partial billing periods on monthly plans",
+          "Renewal charges when cancellation was not requested before the next billing date",
+          "Consumed usage, credits, API calls, or add-on services already delivered",
+          "Accounts suspended or terminated due to policy violations, abuse, or fraud"
+        ]
+      },
+      "billingErrors": {
+        "title": "4. Billing Error Corrections",
+        "p": "If we confirm a billing error, we will correct the charge or issue the appropriate refund to the original payment method."
+      },
+      "howToRequest": {
+        "title": "5. How to Request a Refund",
+        "p": "To request a refund, contact Sales@Cloudilic.com and include:",
+        "list": [
+          "Account email address",
+          "Transaction/order reference",
+          "Payment date and charged amount",
+          "Reason for the request"
+        ]
+      },
+      "timing": {
+        "title": "6. Review and Processing Times",
+        "p": "We typically review requests within 3 business days. If approved, refunds are initiated to the original payment method. Final settlement time depends on your bank or card issuer and may take 7-21 business days."
+      },
+      "gateway": {
+        "title": "7. Payment Gateway and Card Refunds",
+        "p": "Card payments are processed securely through Paymob and/or approved payment partners. Approved refunds are sent back to the same card or payment source used in the original transaction, according to gateway and regulatory requirements."
+      },
+      "chargebacks": {
+        "title": "8. Chargebacks",
+        "p": "Before opening a chargeback, please contact us so we can resolve the issue quickly. Fraudulent or abusive chargebacks may result in account restrictions."
+      },
+      "cancellations": {
+        "title": "9. Subscription Cancellation",
+        "p": "You can cancel your subscription at any time. Cancellation stops future renewals but does not retroactively refund completed billing periods unless explicitly approved under this policy."
+      },
+      "changes": {
+        "title": "10. Changes to This Policy",
+        "p": "We may update this Refund Policy from time to time to reflect operational or legal requirements. Updates will be posted on this page with a revised effective date."
+      },
+      "contact": {
+        "title": "11. Contact",
+        "p": "For refund and billing questions, contact Sales@Cloudilic.com."
+      }
+    }
+  },
+  "howItWorks": {
+    "sectionLabel": "How It Works?",
+    "title": "Start in Minutes — No Technical Skills Needed.",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Create your account",
+        "description": "Sign up in seconds with just your email. No credit card required to get started."
+      },
+      {
+        "number": 2,
+        "title": "Build or choose your AI agent",
+        "description": "Select from pre-built agents or customize your own with our intuitive builder."
+      },
+      {
+        "number": 3,
+        "title": "Press run and let automation take over",
+        "description": "Deploy with one click and watch your AI agent handle tasks automatically."
+      }
+    ]
+  }
+}

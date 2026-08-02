@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-admin/admin-ajax.php
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+user-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-news
+Allow: /
+
+User-agent: Bingbot 
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://dragify.ai/sitemap_index.xml
+Allow: /

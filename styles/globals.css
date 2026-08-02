@@ -1,0 +1,124 @@
+:root {
+  /* Light theme variables */
+  --background: #f8f9fa;
+  --card-bg: #ffffff;
+  --text-primary: #2a2b2c;
+  --text-secondary: #636466;
+  --accent-blue: #1a73e8;
+  --accent-purple: #7b68ee;
+  --border-color: #e6e8eb;
+  --button-bg: #1a73e8;
+  --button-text: #ffffff;
+  --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --header-bg: rgba(255, 255, 255, 0.9);
+}
+
+[data-theme="dark"] {
+  /* Dark theme variables */
+  --background: #121721;
+  --card-bg: #1e2633;
+  --text-primary: #ffffff;
+  --text-secondary: #a0a7b5;
+  --accent-blue: #4a89dc;
+  --accent-purple: #8c7df7;
+  --border-color: #2a3246;
+  --button-bg: #4a89dc;
+  --button-text: #ffffff;
+  --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  --header-bg: rgba(30, 38, 51, 0.9);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: var(--background);
+  color: var(--text-primary);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-primary);
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+p {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--accent-blue);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-purple);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.section {
+  padding: 5rem 0;
+}
+
+.btn {
+  background-color: var(--button-bg);
+  color: var(--button-text);
+  border: none;
+  border-radius: 4px;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.btn:hover {
+  background-color: var(--accent-purple);
+  transform: translateY(-2px);
+}
+
+.btn-outline {
+  background-color: transparent;
+  border: 1px solid var(--button-bg);
+  color: var(--button-bg);
+}
+
+.btn-outline:hover {
+  background-color: var(--button-bg);
+  color: var(--button-text);
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, var(--accent-blue), var(--accent-purple));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: 3rem 0;
+  }
+}
+
+.currency {
+  font-size: 0.85rem;
+  vertical-align: top;
+  margin-right: 0.25rem;
+}

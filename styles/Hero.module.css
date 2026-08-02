@@ -1,0 +1,156 @@
+.hero {
+  min-height: 100vh;
+  padding: 120px 0 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title {
+  font-size: 3.5rem;
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+  color: var(--text-primary);
+}
+
+.highlight {
+  background: linear-gradient(90deg, var(--accent-blue), var(--accent-purple));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.subtitle {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+  max-width: 540px;
+}
+
+.cta {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.demoBtn {
+  background-color: transparent;
+  border: 1px solid var(--button-bg);
+  color: var(--button-bg);
+}
+
+.demoBtn:hover {
+  background-color: var(--button-bg);
+  color: var(--button-text);
+}
+
+.imageContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.imageWrapper {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  filter: drop-shadow(0px 8px 24px rgba(0, 0, 0, 0.15));
+}
+
+.cloudProviders {
+  background-color: var(--card-bg);
+  padding: 1.5rem 0;
+  margin-top: 2rem;
+  width: 100%;
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.providersWrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.provider {
+  display: flex;
+  align-items: center;
+  color: var(--text-secondary);
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+@media (max-width: 1024px) {
+  .container {
+    grid-template-columns: 1fr;
+  }
+  
+  .imageContainer {
+    grid-row: 1;
+    margin-bottom: 2rem;
+  }
+  
+  .content {
+    grid-row: 2;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+  }
+  
+  .providersWrapper {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero {
+    padding: 100px 0 30px;
+  }
+  
+  .title {
+    font-size: 2rem;
+  }
+  
+  .subtitle {
+    font-size: 1rem;
+  }
+  
+  .cta {
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .cta button {
+    width: 100%;
+  }
+  
+  .provider {
+    font-size: 1rem;
+  }
+}
