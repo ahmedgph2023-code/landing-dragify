@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <!-- Dragify hero: automation core — hex ring + diamond + nucleus -->
+  <!-- evenodd cutouts so sampling only hits bright pixels -->
+  <path
+    fill="#ffffff"
+    fill-rule="evenodd"
+    d="M120 18 L198 62 L198 150 L120 194 L42 150 L42 62 Z
+       M120 34 L184 70 L184 142 L120 178 L56 142 L56 70 Z"
+  />
+  <path
+    fill="#ffffff"
+    fill-rule="evenodd"
+    d="M120 58 L168 100 L120 142 L72 100 Z
+       M120 74 L152 100 L120 126 L88 100 Z"
+  />
+  <circle cx="120" cy="100" r="16" fill="#ffffff"/>
+  <circle cx="120" cy="42" r="10" fill="#ffffff"/>
+  <circle cx="178" cy="100" r="9" fill="#ffffff"/>
+  <circle cx="120" cy="158" r="9" fill="#ffffff"/>
+  <circle cx="62" cy="100" r="9" fill="#ffffff"/>
+  <rect x="116" y="52" width="8" height="28" fill="#ffffff"/>
+  <rect x="140" y="96" width="28" height="8" fill="#ffffff"/>
+  <rect x="116" y="120" width="8" height="28" fill="#ffffff"/>
+  <rect x="72" y="96" width="28" height="8" fill="#ffffff"/>
+</svg>

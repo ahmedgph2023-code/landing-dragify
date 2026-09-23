@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
+  <!-- Optional network SVG override  used if PARTICLE_TARGETS.network.kind = 'svg' -->
+  <circle cx="120" cy="110" r="22" fill="#fff"/>
+  <circle cx="120" cy="28" r="12" fill="#fff"/>
+  <circle cx="198" cy="80" r="11" fill="#fff"/>
+  <circle cx="188" cy="168" r="11" fill="#fff"/>
+  <circle cx="52" cy="168" r="11" fill="#fff"/>
+  <circle cx="42" cy="80" r="11" fill="#fff"/>
+  <circle cx="120" cy="200" r="10" fill="#fff"/>
+  <line x1="120" y1="110" x2="120" y2="28" stroke="#fff" stroke-width="10"/>
+  <line x1="120" y1="110" x2="198" y2="80" stroke="#fff" stroke-width="9"/>
+  <line x1="120" y1="110" x2="188" y2="168" stroke="#fff" stroke-width="9"/>
+  <line x1="120" y1="110" x2="52" y2="168" stroke="#fff" stroke-width="9"/>
+  <line x1="120" y1="110" x2="42" y2="80" stroke="#fff" stroke-width="9"/>
+  <line x1="120" y1="110" x2="120" y2="200" stroke="#fff" stroke-width="8"/>
+</svg>

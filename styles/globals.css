@@ -122,3 +122,24 @@ a:hover {
   vertical-align: top;
   margin-right: 0.25rem;
 }
+
+/* Preflight is disabled, so the themed element rules above would otherwise bleed
+   into the new landing page (headings would pick up the light-theme dark grey).
+   Neutralise them for that subtree only; Tailwind utilities still win over this. */
+#nl-root h1,
+#nl-root h2,
+#nl-root h3,
+#nl-root h4,
+#nl-root p,
+#nl-root a {
+  color: inherit;
+  margin: 0;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+/* Tailwind is scoped to #nl-root (see tailwind.config.js) and has preflight off,
+   so these directives only emit styles for the new landing page. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Spreadsheet / file -->
+  <rect x="14" y="8" width="36" height="48" rx="4" stroke="#ffffff" stroke-width="5"/>
+  <path d="M14 22 H50 M14 34 H50 M14 46 H50 M28 22 V56 M40 22 V56" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</svg>

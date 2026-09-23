@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Outlook / mail brand simplified -->
+  <rect x="10" y="14" width="44" height="36" rx="4" stroke="#ffffff" stroke-width="5"/>
+  <path d="M10 18 L32 34 L54 18" stroke="#ffffff" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="44" cy="40" r="10" stroke="#ffffff" stroke-width="4"/>
+  <path d="M44 34 V40 H49" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

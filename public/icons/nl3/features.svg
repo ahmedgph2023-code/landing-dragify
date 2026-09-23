@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <g stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="256" cy="256" r="36"/>
+    <circle cx="256" cy="256" r="22" fill="#fff" stroke="none"/>
+    <!-- spokes -->
+    <line x1="256" y1="256" x2="140" y2="140"/>
+    <line x1="256" y1="256" x2="372" y2="140"/>
+    <line x1="256" y1="256" x2="140" y2="372"/>
+    <line x1="256" y1="256" x2="372" y2="372"/>
+  </g>
+  <!-- TL agent -->
+  <circle cx="140" cy="140" r="54" stroke="#fff" stroke-width="8"/>
+  <rect x="118" y="122" width="44" height="36" rx="8" fill="#fff"/>
+  <circle cx="132" cy="136" r="4" fill="#05070a"/>
+  <circle cx="152" cy="136" r="4" fill="#05070a"/>
+  <!-- TR orbit -->
+  <circle cx="372" cy="140" r="54" stroke="#fff" stroke-width="8"/>
+  <circle cx="372" cy="140" r="8" fill="#fff"/>
+  <circle cx="372" cy="112" r="7" fill="#fff"/>
+  <circle cx="348" cy="154" r="7" fill="#fff"/>
+  <circle cx="396" cy="154" r="7" fill="#fff"/>
+  <!-- BL rocket -->
+  <circle cx="140" cy="372" r="54" stroke="#fff" stroke-width="8"/>
+  <path d="M140 340 L152 390 L140 378 L128 390 Z" fill="#fff"/>
+  <!-- BR api -->
+  <circle cx="372" cy="372" r="54" stroke="#fff" stroke-width="8"/>
+  <rect x="348" y="356" width="28" height="32" rx="4" fill="#fff"/>
+  <line x1="376" y1="364" x2="396" y2="364" stroke="#fff" stroke-width="6"/>
+  <line x1="376" y1="380" x2="396" y2="380" stroke="#fff" stroke-width="6"/>
+</svg>

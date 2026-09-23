@@ -1,0 +1,3 @@
+# Place optional GLB / GLTF models here.
+# Example: dragify-core.glb
+# Then set ASSET_SLOTS.heroObject.modelUrl in config/landingScene.ts

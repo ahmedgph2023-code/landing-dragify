@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <!-- Three linked workflow nodes: user � agent � play -->
+  <g stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <!-- links -->
+    <path d="M150 340 L256 256" />
+    <path d="M256 256 L362 172" />
+    <!-- arrow tips -->
+    <path d="M240 268 L256 256 L248 240" />
+    <path d="M346 184 L362 172 L354 156" />
+  </g>
+
+  <!-- Node 1: account -->
+  <circle cx="128" cy="360" r="64" stroke="#fff" stroke-width="10" fill="none"/>
+  <circle cx="128" cy="348" r="16" fill="#fff"/>
+  <path d="M96 392c8-22 56-22 64 0" stroke="#fff" stroke-width="10" fill="none" stroke-linecap="round"/>
+
+  <!-- Node 2: agent -->
+  <circle cx="256" cy="256" r="64" stroke="#fff" stroke-width="10" fill="none"/>
+  <rect x="230" y="236" width="52" height="44" rx="10" fill="#fff"/>
+  <circle cx="244" cy="254" r="5" fill="#05070a"/>
+  <circle cx="268" cy="254" r="5" fill="#05070a"/>
+  <line x1="256" y1="220" x2="256" y2="236" stroke="#fff" stroke-width="8"/>
+  <circle cx="256" cy="214" r="6" fill="#fff"/>
+
+  <!-- Node 3: run -->
+  <circle cx="384" cy="152" r="64" stroke="#fff" stroke-width="10" fill="none"/>
+  <path d="M366 128 L366 176 L410 152 Z" fill="#fff"/>
+</svg>

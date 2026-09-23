@@ -10,10 +10,37 @@
   },
   "hero": {
     "title": "Your Next <highlight>Team Member?</highlight> An <highlight>AI Agent</highlight> That <highlight>{displayedText}</highlight>",
-    "subtitle": "Turn your daily tasks into automated, reliable workflows. Create custom AI agents, run them in one click, and let them handle the heavy lifting — no coding, no technical setup.",
+    "subtitle": "Turn your daily tasks into automated, reliable workflows. Create custom AI agents, run them in one click, and let them handle the heavy lifting — <highlight>no coding, no technical setup.</highlight>",
     "getStarted": "Try for free",
     "requestDemo": "See How It Works",
-    "writerTexts": ["Acts", "Thinks", "Leaps"]
+    "sectionLabel": "Intelligent. Reliable. Built for Teams.",
+    "writerTexts": [
+      "Acts",
+      "Thinks",
+      "Leaps"
+    ],
+    "cards": [
+      {
+        "title": "Custom AI Agents",
+        "description": "Build AI agents tailored to your team's unique needs."
+      },
+      {
+        "title": "Smart Automation",
+        "description": "Automate tasks and workflows across your tools and data."
+      },
+      {
+        "title": "One-Click Execution",
+        "description": "Run your agents instantly with no complex setup."
+      },
+      {
+        "title": "Real-Time Insights",
+        "description": "Track performance and improve with AI-powered insights."
+      },
+      {
+        "title": "Enterprise Ready",
+        "description": "Secure, scalable, and built for teams of any size."
+      }
+    ]
   },
   "features": {
     "title": "Advanced Capabilities. <highlight>Simple Experience</highlight>",
@@ -38,11 +65,12 @@
     ]
   },
   "partners": {
-    "title": "Backed by Visionaries"
+    "title": "Backed by Visionaries",
+    "subtitle": "Built with support from global accelerators, cloud leaders, and national innovation programs."
   },
   "statistics": {
-    "title": "Trusted by Teams <span class=\"gradient-text\">Worldwide</span>",
-    "subtitle": "Entities across different industries rely on Dragify to automate work, improve performance, and reduce operational load. Here are some of their stories.",
+    "title": "Trusted by <highlight>Teams Worldwide</highlight>",
+    "subtitle": "Join thousands of teams delivering more, faster. Our platform empowers businesses to work smarter with automation and AI agents built for real results.",
     "learnMore": "Learn More",
     "items": [
       {
@@ -84,33 +112,54 @@
     ]
   },
   "agents": {
-    "title": "AI That Fits Every Team and Every Workflow",
-    "description": "Explore how teams across different functions use AI agents to streamline tasks and improve results.",
+    "sectionLabel": "Intelligent. Adaptive. Built for Teams.",
+    "title": "AI That Fits Every Team and <highlight>Every Workflow</highlight>",
+    "description": "Explore how teams across different functions use AI agents to streamline tasks, automate workflows, and achieve more — <highlight>together.</highlight>",
     "items": [
       {
         "title": "Marketing Automation",
         "description": "campaigns, content, engagement — automated.",
-        "tags": ["Content Creation", "Campaign Analysis", "SEO Optimization"]
+        "tags": [
+          "Content Creation",
+          "Campaign Analysis",
+          "SEO Optimization"
+        ]
       },
       {
         "title": "Customer Support",
         "description": "ticket sorting, auto-responses, 24/7 availability.",
-        "tags": ["Ticket Resolution", "Knowledge Base", "Smart Escalation"]
+        "tags": [
+          "Ticket Resolution",
+          "Knowledge Base",
+          "Smart Escalation"
+        ]
       },
       {
         "title": "Sales Automation",
         "description": "follow-ups, lead nurturing, scheduling.",
-        "tags": ["Lead Qualification", "Email Outreach", "Meeting Scheduling"]
+        "tags": [
+          "Lead Qualification",
+          "Email Outreach",
+          "Meeting Scheduling"
+        ]
       },
       {
         "title": "Operations Management",
         "description": "task routing, data syncing, real-time alerts.",
-        "tags": ["Supply Chain", "Inventory", "Procurement"]
+        "tags": [
+          "Supply Chain",
+          "Inventory",
+          "Procurement"
+        ]
       },
       {
         "title": "HR Operations",
         "description": "request handling, schedule management, admin automation.",
-        "tags": ["Resume Screening", "Onboarding", "Employee Support"]
+        "tags": [
+          "Resume Screening",
+          "Onboarding",
+          "Employee Support"
+        ]
       },
       {
         "title": "Financial Operations",
@@ -124,7 +173,8 @@
     ]
   },
   "integrations": {
-    "title": "Works Seamlessly With Your Existing Stack",
+    "sectionLabel": "Fully Connected Ecosystem",
+    "title": "Works Seamlessly With Your <highlight>Existing Stack</highlight>",
     "description": "Connect Dragify to your CRM, databases, communication tools, internal systems, and more in just a few clicks.",
     "seeAll": "See all integrations",
     "cardTitle": "Connect Your Tools",
@@ -150,8 +200,12 @@
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "sectionLabel": "Questions & Answers",
+    "title": "Frequently Asked <highlight>Questions</highlight>",
     "description": "Get answers to common questions about Dragify AI and how it can transform your business operations.",
+    "stillHave": "Still have questions?",
+    "stillHaveBody": "Our team is here to help you 24/7.",
+    "contactSupport": "Contact Support",
     "items": [
       {
         "question": "What is Dragify, and how does it work?",
@@ -441,16 +495,13 @@
       "title": "Custom Built AI Agents - Dragify AI",
       "description": "Turn Ideas Into Agents That Do the Work. Create tailored AI agents that handle decisions, execute tasks, and never need a coffee break."
     },
-
     "hero": {
       "title": "Custom Built AI Agents",
       "subtitle": "Turn Ideas Into Agents That Do the Work"
     },
-
     "intro": {
       "description": "Create tailored AI agents that handle decisions, execute tasks, and never need a coffee break. Our custom-built agents are designed to understand your unique business needs and operate autonomously to deliver consistent, high-quality results around the clock."
     },
-
     "imageCards": [
       {
         "title": "Autonomous AI Agents",
@@ -465,7 +516,6 @@
         "description": "Seamlessly automate repetitive tasks and free up your team for higher-value work."
       }
     ],
-
     "features": {
       "title": "Key Capabilities",
       "subtitle": "Our AI agents come equipped with powerful features designed to transform how you work.",
@@ -484,7 +534,6 @@
         }
       ]
     },
-
     "benefits": {
       "title": "Why Choose Custom AI Agents",
       "subtitle": "Discover the advantages that set our AI agents apart from traditional automation solutions.",
@@ -507,7 +556,6 @@
         }
       ]
     },
-
     "steps": {
       "title": "How It Works",
       "subtitle": "Getting started with custom AI agents is simple and straightforward.",
@@ -536,16 +584,13 @@
       "title": "Deploy Fast With One-Click - Dragify AI",
       "description": "From Workflow to Workflowing — Instantly. Launch your AI agents in minutes, not weeks — no setup delays, just results."
     },
-
     "hero": {
       "title": "Deploy Fast With One-Click",
       "subtitle": "From Workflow to Workflowing — Instantly"
     },
-
     "intro": {
       "description": "Launch your AI agents in minutes, not weeks — no setup delays, just results. Our streamlined deployment process eliminates the complexity of traditional AI implementation, allowing you to go from concept to production with a single click."
     },
-
     "imageCards": [
       {
         "title": "One-Click Launch",
@@ -560,12 +605,10 @@
         "description": "See immediate impact as your AI agents start working the moment they're deployed."
       }
     ],
-
     "speed": {
       "title": "Speed That Matters",
       "subtitle": "Our deployment platform is engineered for speed at every step."
     },
-
     "stats": [
       {
         "number": "5min",
@@ -584,7 +627,6 @@
         "label": "Rollback Capability"
       }
     ],
-
     "features": {
       "title": "Deployment Features",
       "subtitle": "Everything you need to deploy, manage, and scale your AI agents with confidence.",
@@ -607,7 +649,6 @@
         }
       ]
     },
-
     "timeline": {
       "title": "Deploy in 3 Simple Steps",
       "subtitle": "From development to production in minutes, not weeks.",
@@ -626,18 +667,41 @@
         }
       ]
     },
-
     "comparison": {
       "title": "Traditional vs. Dragify AI",
       "subtitle": "See how our deployment process compares to traditional methods.",
       "table": {
-        "headers": ["Aspect", "Traditional", "Dragify AI"],
+        "headers": [
+          "Aspect",
+          "Traditional",
+          "Dragify AI"
+        ],
         "rows": [
-          ["Setup Time", "2-4 weeks", "5 minutes"],
-          ["Technical Expertise", "DevOps team required", "No coding needed"],
-          ["Infrastructure", "Manual provisioning", "Fully managed"],
-          ["Scaling", "Manual configuration", "Automatic"],
-          ["Maintenance", "Ongoing overhead", "Zero maintenance"]
+          [
+            "Setup Time",
+            "2-4 weeks",
+            "5 minutes"
+          ],
+          [
+            "Technical Expertise",
+            "DevOps team required",
+            "No coding needed"
+          ],
+          [
+            "Infrastructure",
+            "Manual provisioning",
+            "Fully managed"
+          ],
+          [
+            "Scaling",
+            "Manual configuration",
+            "Automatic"
+          ],
+          [
+            "Maintenance",
+            "Ongoing overhead",
+            "Zero maintenance"
+          ]
         ]
       }
     }
@@ -647,16 +711,13 @@
       "title": "Multi-Agent Orchestration - Dragify AI",
       "description": "Let Your AI Agents Team Up. Orchestrate smarter workflows by connecting agents that collaborate, coordinate, and conquer complexity."
     },
-
     "hero": {
       "title": "Multi-Agent Orchestration",
       "subtitle": "Let Your AI Agents Team Up"
     },
-
     "intro": {
       "description": "Orchestrate smarter workflows by connecting agents that collaborate, coordinate, and conquer complexity. When one agent isn't enough, our multi-agent orchestration platform enables seamless teamwork between specialized AI agents, each contributing their unique capabilities to solve complex challenges."
     },
-
     "imageCards": [
       {
         "title": "Collaborative AI Agents",
@@ -671,7 +732,6 @@
         "description": "Harmonious agent interactions that break down complex problems into manageable pieces."
       }
     ],
-
     "capabilities": {
       "title": "Orchestration Capabilities",
       "subtitle": "Powerful features that enable seamless collaboration between AI agents.",
@@ -690,7 +750,6 @@
         }
       ]
     },
-
     "useCases": {
       "title": "Use Cases",
       "subtitle": "See how multi-agent orchestration transforms real-world business processes.",
@@ -713,7 +772,6 @@
         }
       ]
     },
-
     "architecture": {
       "title": "How Orchestration Works",
       "subtitle": "A three-layer architecture that ensures reliable and efficient agent coordination.",
@@ -950,7 +1008,7 @@
   },
   "howItWorks": {
     "sectionLabel": "How It Works?",
-    "title": "Start in Minutes — No Technical Skills Needed.",
+    "title": "Start in Minutes — <highlight>No Technical Skills Needed.</highlight>",
     "steps": [
       {
         "number": 1,
@@ -968,5 +1026,916 @@
         "description": "Deploy with one click and watch your AI agent handle tasks automatically."
       }
     ]
+  },
+  "landing2": {
+    "eyebrows": {
+      "aiPlatform": "automation platform",
+      "platform": "Platform",
+      "useCases": "Use cases",
+      "integrations": "Integrations",
+      "results": "Results",
+      "faq": "FAQ"
+    },
+    "story": {
+      "eyebrow": "Why Dragify",
+      "beat1": {
+        "label": "The problem",
+        "text": "Every day, your best people burn hours on work a <highlight>machine could do</highlight>."
+      },
+      "beat2": {
+        "label": "The shift",
+        "text": "Dragify turns that busywork into a <highlight>single prompt</highlight>."
+      },
+      "beat3": {
+        "label": "The result",
+        "text": "Your AI agent takes it from there — thinking, acting, and <highlight>reporting back</highlight>."
+      }
+    },
+    "workflowSubtitle": "One trigger, one agent hierarchy, work that finishes itself.",
+    "testimonials": {
+      "eyebrow": "Social proof",
+      "title": "Teams run their busywork on Dragify",
+      "description": "A few of the stories behind the numbers above.",
+      "items": [
+        {
+          "quote": "We replaced a stack of Zapier chains and a part-time contractor with three Dragify agents. Support tickets get triaged and answered before our team even opens Slack.",
+          "name": "Operations Lead",
+          "role": "Series A e-commerce company"
+        },
+        {
+          "quote": "The multi-agent orchestration is what sold us — our CEO agent delegates to specialized agents automatically. It genuinely runs like a small team, not a script.",
+          "name": "Founder",
+          "role": "B2B SaaS startup"
+        },
+        {
+          "quote": "Deployment took under ten minutes end to end. No engineering ticket, no waiting on a sprint — that alone changed how our ops team thinks about automation.",
+          "name": "Head of Operations",
+          "role": "Logistics & fulfillment"
+        }
+      ]
+    },
+    "pricingTeaser": {
+      "eyebrow": "Pricing",
+      "title": "Simple plans that scale with your team",
+      "compareAll": "Compare all plans"
+    },
+    "finalCtaTitle": "Ready to put an AI agent to work?",
+    "finePrint": "No credit card required  ·  Live in under 5 minutes",
+    "scrollCue": "Scroll"
+  },
+  "landing": {
+    "meta": {
+      "title": "Dragify AI — Automation that thinks for itself",
+      "description": "Build AI agents, connect your stack, and automate WhatsApp, Gmail, Slack and Shopify in one drag-and-drop canvas. No code required."
+    },
+    "nav": {
+      "product": "Product",
+      "useCases": "Use cases",
+      "integrations": "Integrations",
+      "pricing": "Pricing",
+      "docs": "Docs",
+      "bookDemo": "Book a demo",
+      "start": "Start building",
+      "toggleTheme": "Toggle theme",
+      "toggleMenu": "Toggle menu"
+    },
+    "hero": {
+      "eyebrow": "AI automation platform",
+      "titlePre": "Automation that",
+      "titleGradient": "thinks",
+      "titlePost": ", connects, and ships itself.",
+      "subtitle": "Build AI agents, wire up your APIs, and automate WhatsApp, Gmail, Slack and Shopify in one drag-and-drop canvas — no code, no glue scripts, no waiting on engineering.",
+      "ctaPrimary": "Start building free",
+      "ctaSecondary": "See it run",
+      "finePrint": "No credit card required  ·  Live in under 5 minutes",
+      "workflow": {
+        "input": "Input",
+        "output": "Output",
+        "trigger": "WhatsApp Trigger",
+        "newMessage": "New message",
+        "classifier": "AI Classifier",
+        "support": "Support",
+        "salesLead": "Sales Lead",
+        "complaint": "Complaint",
+        "knowledge": "Knowledge Base",
+        "crmCreate": "CRM Create",
+        "createTicket": "Create Ticket",
+        "aiResponse": "AI Response",
+        "notifySales": "Notify Sales",
+        "notifySlack": "Notify Slack",
+        "final": "Send WhatsApp Reply"
+      }
+    },
+    "marquee": {
+      "label": "Backed by the programs building the next generation of AI companies"
+    },
+    "problem": {
+      "eyebrow": "The shift",
+      "title": "Stop gluing tools together.",
+      "titleGradient": "Start shipping outcomes.",
+      "subtitle": "Most teams don't have an automation problem — they have a fragmentation problem. Watch what changes when Dragify becomes the layer underneath everything.",
+      "beats": [
+        {
+          "before": "Five different tabs open just to answer one customer message",
+          "after": "One canvas. One answer. Every time."
+        },
+        {
+          "before": "Engineers pulled into \"quick\" integration requests every week",
+          "after": "Teams ship their own automations, no ticket required"
+        },
+        {
+          "before": "Spreadsheets and brittle chains that break the moment something changes",
+          "after": "Agents that adapt to messy, real-world input"
+        },
+        {
+          "before": "No visibility into what actually happened after a workflow \"ran\"",
+          "after": "A full trail of every decision an agent made, and why"
+        }
+      ]
+    },
+    "workflow": {
+      "eyebrow": "See it run",
+      "title": "One trigger. One agent.",
+      "titleGradient": "Every action, handled.",
+      "subtitle": "Watch a single WhatsApp message turn into a fully-handled workflow — routed, decided, and executed across your stack in real time.",
+      "live": "Running live",
+      "trigger": {
+        "kicker": "Trigger",
+        "title": "New WhatsApp message",
+        "sub": "“Do you ship to Alexandria?”"
+      },
+      "agent": {
+        "kicker": "AI Agent",
+        "title": "Classifies intent & routes",
+        "sub": "Reads context, checks inventory, decides next steps"
+      },
+      "outputs": [
+        "Auto-reply on WhatsApp",
+        "Create Shopify order",
+        "Notify #sales in Slack",
+        "Log lead in the CRM"
+      ],
+      "counterLabel": "automations executed by agents this week"
+    },
+    "features": {
+      "eyebrow": "Platform",
+      "title": "Advanced capabilities.",
+      "titleGradient": "Simple experience.",
+      "subtitle": "Everything you need to scale operations and unlock real-time decisions — without adding headcount or complexity.",
+      "deployLines": [
+        "$ dragify deploy",
+        "> provisioning agent…",
+        "> connecting Shopify…",
+        "> live in 4.2s ✓"
+      ],
+      "apiChips": [
+        "CRM",
+        "Shopify",
+        "Slack",
+        "Sheets"
+      ],
+      "items": [
+        {
+          "tag": "Agents",
+          "title": "Custom built AI agents",
+          "description": "Turn your ideas into AI agents that think, act, and deliver results automatically — tailored to how your team actually works."
+        },
+        {
+          "tag": "Orchestration",
+          "title": "Multi-agent orchestration",
+          "description": "Let agents collaborate behind the scenes — one triages, one decides, one executes, all in sync."
+        },
+        {
+          "tag": "Deployment",
+          "title": "Deploy fast, one click",
+          "description": "Go from setup to execution in minutes — zero-configuration, auto-scaling, instantly rolled back if needed."
+        },
+        {
+          "tag": "Connections",
+          "title": "Scalable API connections",
+          "description": "Connect agents to any CRM, database, or internal tool you already rely on, with automatic retries and rate-limit handling."
+        }
+      ]
+    },
+    "agents": {
+      "eyebrow": "Use cases",
+      "title": "AI that fits",
+      "titleGradient": "every team",
+      "titlePost": ", every workflow.",
+      "subtitle": "The same canvas, reshaped for whatever your team automates first.",
+      "items": [
+        {
+          "title": "Marketing automation",
+          "description": "Campaigns, content, and engagement — planned, drafted, and shipped automatically, on a schedule your team actually keeps.",
+          "tags": [
+            "Content creation",
+            "Campaign analysis",
+            "SEO"
+          ]
+        },
+        {
+          "title": "Customer support",
+          "description": "Ticket sorting, instant replies, and true 24/7 availability — no queue, no wait, no burned-out team.",
+          "tags": [
+            "Ticket resolution",
+            "Knowledge base",
+            "Escalation"
+          ]
+        },
+        {
+          "title": "Sales automation",
+          "description": "Follow-ups, lead nurturing, and scheduling — so reps spend their time closing, not chasing.",
+          "tags": [
+            "Lead qualification",
+            "Email outreach",
+            "Scheduling"
+          ]
+        },
+        {
+          "title": "Operations management",
+          "description": "Task routing, data syncing, and real-time alerts across every moving part of the business.",
+          "tags": [
+            "Supply chain",
+            "Inventory",
+            "Procurement"
+          ]
+        },
+        {
+          "title": "HR operations",
+          "description": "Request handling, schedules, and onboarding admin — resolved before anyone has to ask twice.",
+          "tags": [
+            "Resume screening",
+            "Onboarding",
+            "Employee support"
+          ]
+        },
+        {
+          "title": "Financial operations",
+          "description": "Invoice processing, expense management, and reporting handled with precision, every single time.",
+          "tags": [
+            "Invoicing",
+            "Expense management",
+            "Reports"
+          ]
+        }
+      ]
+    },
+    "integrations": {
+      "eyebrow": "Integrations",
+      "title": "Works seamlessly with",
+      "titleGradient": "your existing stack",
+      "subtitle": "Connect Dragify to WhatsApp, Instagram, Messenger, Gmail, Slack, Shopify, and any CRM or internal system — in a few clicks, not a few sprints.",
+      "statNumber": "500+",
+      "statLabel": "pre-built connectors, plus open REST & GraphQL for anything custom."
+    },
+    "stats": {
+      "eyebrow": "Impact",
+      "title": "Trusted by teams",
+      "titleGradient": "worldwide",
+      "subtitle": "Teams across every industry rely on Dragify to automate work, cut operational load, and ship faster.",
+      "items": [
+        {
+          "value": 57,
+          "suffix": "%",
+          "label": "Increase in deployment efficiency"
+        },
+        {
+          "value": 68,
+          "suffix": "%",
+          "label": "Reduction in engineering time on rollouts"
+        },
+        {
+          "value": 93,
+          "suffix": "%",
+          "label": "Faster time to production"
+        },
+        {
+          "value": 300,
+          "suffix": "+",
+          "label": "Engineering hours saved per quarter"
+        },
+        {
+          "value": 80,
+          "suffix": "%",
+          "label": "Of users rate their experience as excellent"
+        },
+        {
+          "value": 71,
+          "suffix": "%",
+          "label": "Fewer deployment errors"
+        }
+      ]
+    },
+    "security": {
+      "eyebrow": "Enterprise ready",
+      "title": "Secure enough for",
+      "titleGradient": "enterprise",
+      "titlePost": ". Simple enough for anyone.",
+      "subtitle": "Dragify offers secure data handling, granular access control, and on-premise deployment options — so your automations meet the same bar as the rest of your stack.",
+      "points": [
+        {
+          "title": "Role-based access control",
+          "desc": "Give every teammate exactly the permissions their role needs — nothing more."
+        },
+        {
+          "title": "Encrypted in transit",
+          "desc": "All traffic between your workflows and connected systems is encrypted end to end."
+        },
+        {
+          "title": "Full execution audit logs",
+          "desc": "Every agent decision and every workflow run is logged and reviewable, always."
+        },
+        {
+          "title": "Self-hosted option",
+          "desc": "Sensitive workflows can be fully on-premise to meet strict compliance requirements."
+        }
+      ],
+      "footBadge": "SOC-ready practices · RBAC · Audit trail · On-prem option"
+    },
+    "testimonials": {
+      "eyebrow": "Customer stories",
+      "title": "Builders",
+      "titleGradient": "ship faster",
+      "titlePost": "with",
+      "subtitle": "Real teams, real workflows, real time saved.",
+      "items": [
+        {
+          "text": "Dragify AI has completely transformed how we handle customer support. Our response times dropped by 80% and customer satisfaction is at an all-time high.",
+          "name": "Sarah Mitchell",
+          "role": "VP of Operations, TechCorp"
+        },
+        {
+          "text": "The multi-agent orchestration feature is a game-changer. We're processing 10x more data than before with half the resources.",
+          "name": "Michael Chen",
+          "role": "CTO, DataFlow Inc"
+        },
+        {
+          "text": "We deployed our first AI agent in under 10 minutes. The one-click deployment is not just marketing — it actually works exactly as advertised.",
+          "name": "Emily Rodriguez",
+          "role": "Product Manager, StartupX"
+        },
+        {
+          "text": "The API connections made integrating with our existing CRM and ERP systems seamless. No more data silos, everything just works together.",
+          "name": "David Thompson",
+          "role": "IT Director, GlobalRetail"
+        },
+        {
+          "text": "Our team was skeptical about AI automation, but Dragify AI proved us wrong. The agents are reliable, accurate, and our team can focus on strategic work.",
+          "name": "Jennifer Park",
+          "role": "Head of Innovation, FinanceHub"
+        },
+        {
+          "text": "Best investment we've made this year. The platform paid for itself within the first month through operational savings alone.",
+          "name": "Robert Williams",
+          "role": "CEO, ScaleUp Solutions"
+        }
+      ]
+    },
+    "pricing": {
+      "eyebrow": "Pricing",
+      "title": "Pricing built for",
+      "titleGradient": "smarter automation",
+      "subtitle": "Choose the plan that matches your team's needs — no seat limits, no surprise fees.",
+      "mostPopular": "Most popular",
+      "perMonth": "/month",
+      "ctaLabel": "Get started",
+      "footnote": "Need custom limits or an enterprise agreement?",
+      "footnoteLink": "See full pricing & compare plans",
+      "plans": [
+        {
+          "name": "Starter",
+          "description": "Perfect for individuals and small teams",
+          "price": 500,
+          "features": [
+            "Basic analytics",
+            "Standard support",
+            "1,500 credits / month"
+          ]
+        },
+        {
+          "name": "Growth",
+          "description": "Built for scaling teams and early automation adopters",
+          "price": 800,
+          "features": [
+            "Intermediate analytics",
+            "Faster support response",
+            "3,000 credits / month"
+          ]
+        },
+        {
+          "name": "Professional",
+          "description": "Ideal for growing businesses and automation teams",
+          "price": 1500,
+          "features": [
+            "Advanced analytics",
+            "Priority support",
+            "5,000 credits / month"
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Questions,",
+      "titleGradient": "answered",
+      "subtitle": "Everything you need to know before you start automating.",
+      "items": [
+        {
+          "q": "What is Dragify, and how does it work?",
+          "a": "Dragify is a no-code platform that empowers businesses to build and deploy intelligent AI agents. These agents can automate tasks, interact with users, process data, and integrate with your existing tools — all without writing a single line of code."
+        },
+        {
+          "q": "Do I need any technical skills to use Dragify?",
+          "a": "No. Dragify is built for non-technical users. Its drag-and-drop interface and prebuilt function blocks let anyone — from operations managers to customer support leads — build workflows and intelligent agents with ease."
+        },
+        {
+          "q": "What kind of tasks can Dragify's AI agents handle?",
+          "a": "Dragify agents can manage customer support, automate data entry, process documents (OCR), interact with APIs, summarize emails, generate reports, and even make decisions based on business logic or past interactions."
+        },
+        {
+          "q": "Can Dragify integrate with our existing systems (CRM, Slack, Gmail, etc.)?",
+          "a": "Yes. Dragify includes ready-made integrations for popular tools like Gmail, Google Drive, Slack, WhatsApp, CRMs, databases, and more. You can also connect to custom APIs to extend functionality across your tech stack."
+        },
+        {
+          "q": "How is Dragify different from traditional RPA platforms?",
+          "a": "Dragify goes beyond rule-based automation. It uses Agentic Process Automation (APA) — where AI agents think, plan, and act independently within workflows. It's faster to deploy, more scalable, and offers true decision-making intelligence."
+        },
+        {
+          "q": "Is Dragify secure for enterprise use?",
+          "a": "Absolutely. Dragify offers secure data handling, role-based access control, and options for on-premise deployment. Sensitive workflows can be fully self-hosted to meet strict compliance and security requirements."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to put an",
+      "titleGradient": "AI agent",
+      "titlePost": " to work?",
+      "subtitle": "Build it in the next five minutes. No credit card, no sales call required.",
+      "primary": "Start building free",
+      "secondary": "Talk to us"
+    },
+    "cinematic": {
+      "scrollHint": "Scroll the story",
+      "partners": {
+        "eyebrow": "Partners"
+      },
+      "howItWorks": {
+        "eyebrow": "How it works",
+        "subtitle": "From signup to a live agent in three moves — the same path as the homepage, told inside the scroll."
+      },
+      "orchestration": {
+        "eyebrow": "Orchestration",
+        "title": "Workflows orchestrated.",
+        "titleMuted": "Systems unified.",
+        "subtitle": "One rhythm moves through everything you run — agents triage, decide, and execute in sync, with automatic retries and a full trail of every decision."
+      }
+    },
+    "footer": {
+      "tagline": "From engineers to operators — Dragify fits all builders.",
+      "columns": {
+        "product": {
+          "title": "Product",
+          "links": [
+            "Workflow builder",
+            "AI agents",
+            "Integrations",
+            "Pricing"
+          ]
+        },
+        "company": {
+          "title": "Company",
+          "links": [
+            "Blog",
+            "Contact",
+            "Changelog"
+          ]
+        },
+        "resources": {
+          "title": "Resources",
+          "links": [
+            "Documentation",
+            "Security",
+            "Integrations"
+          ]
+        },
+        "legal": {
+          "title": "Legal",
+          "links": [
+            "Terms of service",
+            "Privacy policy",
+            "Refund policy"
+          ]
+        }
+      },
+      "copyright": "All rights reserved.",
+      "bottom": {
+        "terms": "Terms",
+        "privacy": "Privacy",
+        "refunds": "Refunds"
+      }
+    }
+  },
+  "landing3": {
+    "nav": {
+      "product": "Product",
+      "useCases": "Use cases",
+      "integrations": "Integrations",
+      "pricing": "Pricing",
+      "docs": "Docs",
+      "bookDemo": "Book a demo",
+      "start": "Start building"
+    },
+    "opening": {
+      "headline": "Automation that thinks — then ships itself across your stack.",
+      "sub": "Build AI agents on a visual canvas. Connect WhatsApp, Gmail, Slack, Shopify, and any API. Agentic Process Automation handles the rest — no code, no glue scripts, no waiting on engineering.",
+      "ctaPrimary": "Start building free",
+      "ctaSecondary": "See a live run",
+      "fine": "No credit card · Live in under 5 minutes · 14-day free trial",
+      "canvasTitle": "support-agent.workflow",
+      "canvasLive": "Live",
+      "logs": [
+        "Intent classified",
+        "Inventory checked",
+        "3 actions queued"
+      ]
+    },
+    "backed": {
+      "label": "Backed by the programs building the next generation of AI companies"
+    },
+    "manifesto": {
+      "beats": [
+        {
+          "label": "The drag",
+          "text": "Your best people burn hours on work a <highlight>machine could finish</highlight>."
+        },
+        {
+          "label": "The shift",
+          "text": "Dragify turns that busywork into <highlight>one living canvas</highlight>."
+        },
+        {
+          "label": "The agent",
+          "text": "AI agents that <highlight>think, plan, and act</highlight> inside your workflows."
+        },
+        {
+          "label": "The outcome",
+          "text": "Outcomes ship themselves — with a full trail of <highlight>every decision</highlight>."
+        }
+      ]
+    },
+    "stage": {
+      "kicker": "See it run",
+      "titlePre": "One trigger.",
+      "titleGrad": "Every action handled.",
+      "sub": "A single WhatsApp message becomes a fully handled workflow — routed, decided, and executed across your stack in real time.",
+      "live": "Running live",
+      "trigger": {
+        "kicker": "Trigger",
+        "title": "New WhatsApp message",
+        "sub": "“Do you ship to Alexandria?”"
+      },
+      "agent": {
+        "kicker": "Dragify agent",
+        "title": "Classifies intent & routes",
+        "sub": "Reads context, checks inventory, decides next steps"
+      },
+      "outputs": [
+        "Auto-reply on WhatsApp",
+        "Create Shopify order",
+        "Notify #sales in Slack",
+        "Log lead in the CRM"
+      ],
+      "counterLabel": "automations executed by agents this week"
+    },
+    "pillars": {
+      "kicker": "Platform",
+      "titlePre": "Four capabilities.",
+      "titleGrad": "One canvas.",
+      "sub": "Everything you need to scale operations and unlock real-time decisions — without adding headcount or complexity.",
+      "items": [
+        {
+          "tag": "Agents",
+          "title": "Custom built AI agents",
+          "description": "Turn ideas into agents that think, act, and deliver — tailored to how your team actually works, running around the clock."
+        },
+        {
+          "tag": "Orchestration",
+          "title": "Multi-agent orchestration",
+          "description": "One agent triages, one decides, one executes. Dynamic routing and handoffs keep complex workflows in sync."
+        },
+        {
+          "tag": "Deployment",
+          "title": "Deploy fast, one click",
+          "description": "Average deploy in ~5 minutes. Zero config files, auto-scaling, and instant rollback when you need it."
+        },
+        {
+          "tag": "Connections",
+          "title": "Scalable API connections",
+          "description": "Plug into CRMs, databases, and internal tools with OAuth, retries, and rate-limit handling built in."
+        }
+      ]
+    },
+    "teams": {
+      "kicker": "Use cases",
+      "titlePre": "Same canvas.",
+      "titleGrad": "Every team",
+      "titlePost": ".",
+      "sub": "Reshape the builder for whatever your organization automates first.",
+      "items": [
+        {
+          "title": "Marketing automation",
+          "description": "Campaigns, content, and engagement — planned, drafted, and shipped on a schedule your team keeps.",
+          "tags": [
+            "Content creation",
+            "Campaign analysis",
+            "SEO"
+          ]
+        },
+        {
+          "title": "Customer support",
+          "description": "Ticket sorting, instant replies, and true 24/7 coverage — no queue, no burnout.",
+          "tags": [
+            "Ticket resolution",
+            "Knowledge base",
+            "Escalation"
+          ]
+        },
+        {
+          "title": "Sales automation",
+          "description": "Follow-ups, lead nurturing, and scheduling so reps spend time closing, not chasing.",
+          "tags": [
+            "Lead qualification",
+            "Email outreach",
+            "Scheduling"
+          ]
+        },
+        {
+          "title": "Operations management",
+          "description": "Task routing, data syncing, and real-time alerts across every moving part.",
+          "tags": [
+            "Supply chain",
+            "Inventory",
+            "Procurement"
+          ]
+        },
+        {
+          "title": "HR operations",
+          "description": "Requests, schedules, and onboarding admin — resolved before anyone asks twice.",
+          "tags": [
+            "Resume screening",
+            "Onboarding",
+            "Employee support"
+          ]
+        },
+        {
+          "title": "Financial operations",
+          "description": "Invoices, expenses, and reporting handled with precision, every time.",
+          "tags": [
+            "Invoicing",
+            "Expense management",
+            "Reports"
+          ]
+        }
+      ]
+    },
+    "stack": {
+      "kicker": "Integrations",
+      "titlePre": "Works with",
+      "titleGrad": "your existing stack",
+      "sub": "Connect WhatsApp, Instagram, Messenger, Gmail, Slack, Shopify, and any CRM or internal system — in clicks, not sprints.",
+      "statNumber": "500+",
+      "statLabel": "pre-built connectors, plus open REST & GraphQL for anything custom. 10M+ API calls/day capacity."
+    },
+    "proof": {
+      "kicker": "Impact",
+      "titlePre": "Trusted by teams",
+      "titleGrad": "worldwide",
+      "sub": "Teams across industries rely on Dragify to automate work, cut operational load, and ship faster.",
+      "items": [
+        {
+          "value": 57,
+          "suffix": "%",
+          "label": "Increase in deployment efficiency"
+        },
+        {
+          "value": 68,
+          "suffix": "%",
+          "label": "Reduction in engineering time on rollouts"
+        },
+        {
+          "value": 93,
+          "suffix": "%",
+          "label": "Faster time to production"
+        },
+        {
+          "value": 300,
+          "suffix": "+",
+          "label": "Engineering hours saved per quarter"
+        },
+        {
+          "value": 80,
+          "suffix": "%",
+          "label": "Of users rate their experience as excellent"
+        },
+        {
+          "value": 71,
+          "suffix": "%",
+          "label": "Fewer deployment errors"
+        }
+      ]
+    },
+    "trust": {
+      "kicker": "Enterprise ready",
+      "titlePre": "Secure enough for",
+      "titleGrad": "enterprise",
+      "titlePost": ".",
+      "sub": "Secure data handling, granular access control, and on-premise options — so automations meet the same bar as the rest of your stack.",
+      "diffLabel": "Beyond RPA",
+      "diffText": "Dragify uses Agentic Process Automation (APA) — agents that think, plan, and act independently inside workflows, not just brittle rule chains.",
+      "points": [
+        {
+          "title": "Role-based access control",
+          "desc": "Give every teammate exactly the permissions their role needs — nothing more."
+        },
+        {
+          "title": "Encrypted in transit",
+          "desc": "Traffic between workflows and connected systems is encrypted end to end."
+        },
+        {
+          "title": "Full execution audit logs",
+          "desc": "Every agent decision and workflow run is logged and reviewable."
+        },
+        {
+          "title": "Self-hosted option",
+          "desc": "Sensitive workflows can run fully on-premise for strict compliance."
+        }
+      ],
+      "badge": "SOC-ready practices · RBAC · Audit trail · On-prem option · 99.9% uptime"
+    },
+    "voices": {
+      "kicker": "Customer stories",
+      "titlePre": "Builders",
+      "titleGrad": "ship faster",
+      "titlePost": " with Dragify",
+      "sub": "Real teams, real workflows, real time saved.",
+      "items": [
+        {
+          "text": "Dragify AI has completely transformed how we handle customer support. Our response times dropped by 80% and customer satisfaction is at an all-time high.",
+          "name": "Sarah Mitchell",
+          "role": "VP of Operations, TechCorp"
+        },
+        {
+          "text": "The multi-agent orchestration feature is a game-changer. We're processing 10x more data than before with half the resources.",
+          "name": "Michael Chen",
+          "role": "CTO, DataFlow Inc"
+        },
+        {
+          "text": "We deployed our first AI agent in under 10 minutes. The one-click deployment is not just marketing — it actually works exactly as advertised.",
+          "name": "Emily Rodriguez",
+          "role": "Product Manager, StartupX"
+        },
+        {
+          "text": "The API connections made integrating with our existing CRM and ERP systems seamless. No more data silos.",
+          "name": "David Thompson",
+          "role": "IT Director, GlobalRetail"
+        },
+        {
+          "text": "Our team was skeptical about AI automation, but Dragify proved us wrong. The agents are reliable and our team focuses on strategic work.",
+          "name": "Jennifer Park",
+          "role": "Head of Innovation, FinanceHub"
+        },
+        {
+          "text": "Best investment we've made this year. The platform paid for itself within the first month through operational savings alone.",
+          "name": "Robert Williams",
+          "role": "CEO, ScaleUp Solutions"
+        }
+      ]
+    },
+    "plans": {
+      "kicker": "Pricing",
+      "titlePre": "Pricing built for",
+      "titleGrad": "smarter automation",
+      "sub": "Choose the plan that matches your team — no seat limits, no surprise fees. Save 20% on annual billing.",
+      "mostPopular": "Most popular",
+      "perMonth": "/month",
+      "cta": "Get started",
+      "footnote": "Need custom limits or an enterprise agreement?",
+      "footnoteLink": "See full pricing & compare plans",
+      "plans": [
+        {
+          "name": "Starter",
+          "description": "Perfect for individuals and small teams",
+          "price": 500,
+          "features": [
+            "Basic analytics",
+            "Standard support",
+            "1,500 credits / month"
+          ]
+        },
+        {
+          "name": "Growth",
+          "description": "Built for scaling teams and early automation adopters",
+          "price": 800,
+          "features": [
+            "Intermediate analytics",
+            "Faster support response",
+            "3,000 credits / month"
+          ]
+        },
+        {
+          "name": "Professional",
+          "description": "Ideal for growing businesses and automation teams",
+          "price": 1500,
+          "features": [
+            "Advanced analytics",
+            "Priority support",
+            "5,000 credits / month"
+          ]
+        }
+      ]
+    },
+    "ask": {
+      "kicker": "FAQ",
+      "titlePre": "Questions,",
+      "titleGrad": "answered",
+      "sub": "Everything you need to know before you start automating.",
+      "items": [
+        {
+          "q": "What is Dragify, and how does it work?",
+          "a": "Dragify is a no-code platform for building and deploying intelligent AI agents. Agents automate tasks, interact with users, process data, and integrate with your tools — without writing code."
+        },
+        {
+          "q": "Do I need any technical skills to use Dragify?",
+          "a": "No. The drag-and-drop interface and prebuilt function blocks let operations managers, support leads, and other non-technical users build workflows and agents with ease."
+        },
+        {
+          "q": "What kind of tasks can Dragify's AI agents handle?",
+          "a": "Customer support, data entry, document processing (OCR), API interactions, email summarization, report generation, and decisions based on business logic or past interactions."
+        },
+        {
+          "q": "Can Dragify integrate with our existing systems?",
+          "a": "Yes. Ready-made integrations cover Gmail, Google Drive, Slack, WhatsApp, CRMs, databases, and more — plus custom APIs across your stack."
+        },
+        {
+          "q": "How is Dragify different from traditional RPA?",
+          "a": "Dragify goes beyond rule-based automation with Agentic Process Automation (APA): agents that think, plan, and act independently. Faster to deploy, more scalable, and truly decision-capable."
+        },
+        {
+          "q": "Is Dragify secure for enterprise use?",
+          "a": "Yes. Secure data handling, role-based access control, and on-premise deployment options. Sensitive workflows can be fully self-hosted for compliance."
+        }
+      ]
+    },
+    "close": {
+      "titlePre": "Your next teammate is an",
+      "titleEm": "AI agent",
+      "titlePost": ".",
+      "sub": "Build it in the next five minutes. No credit card, no sales call required.",
+      "primary": "Start building free",
+      "secondary": "Talk to us"
+    },
+    "footer": {
+      "tagline": "From engineers to operators — Dragify fits all builders.",
+      "columns": {
+        "product": {
+          "title": "Product",
+          "links": [
+            "Workflow builder",
+            "AI agents",
+            "Integrations",
+            "Pricing"
+          ]
+        },
+        "company": {
+          "title": "Company",
+          "links": [
+            "Blog",
+            "Contact",
+            "Changelog"
+          ]
+        },
+        "resources": {
+          "title": "Resources",
+          "links": [
+            "Documentation",
+            "Security",
+            "Integrations"
+          ]
+        },
+        "legal": {
+          "title": "Legal",
+          "links": [
+            "Terms of service",
+            "Privacy policy",
+            "Refund policy"
+          ]
+        }
+      },
+      "copyright": "All rights reserved.",
+      "bottom": {
+        "terms": "Terms",
+        "privacy": "Privacy",
+        "refunds": "Refunds"
+      }
+    }
   }
 }
